@@ -1,0 +1,9 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.9.1",
+    "algosdk": "^1.8.1"
+  }
+}
